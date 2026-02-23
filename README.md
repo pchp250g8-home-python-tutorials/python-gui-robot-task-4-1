@@ -2,6 +2,7 @@ RobotTask-4-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Applicatio
 
 Robot-Pos-N1
 
+<img width="546" height="409" alt="изображение" src="https://github.com/user-attachments/assets/3fd1498b-29bd-48ec-982d-785330bc1d87" />
 
 
 Robot-Pos-N2
