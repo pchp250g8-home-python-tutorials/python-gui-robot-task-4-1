@@ -1,3 +1,5 @@
+# --coding:utf-8--
+
 from robot import *
 
 while(is_free_right() or is_free_left() or is_free_down()):
